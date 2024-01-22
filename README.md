@@ -7,7 +7,7 @@ The task requires using methods to evaluate the dataframe and output results.
 Returns first 5 values in the dataframe.
 
 ### df.shape
-Returns total num of row and columns in the dataframe.
+ Returns total num of row and columns in the dataframe.
 
 ### df.describe()
 This method returns a detail summary of the statistics.
